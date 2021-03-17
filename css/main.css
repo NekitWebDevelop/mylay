@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 10px;
 }
 
-.tel {
+.phone {
 	text-decoration: none;
 	color: white;
 	font-size: 15px;
@@ -50,12 +50,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .paragraph {
-	width: 400px;
+	width: 483px;
 	font-size: 30px;
 }
 
 .text{
-	margin-top: 180px;
+	padding-top: 180px;
 }
 
 span{
@@ -66,4 +66,3 @@ span{
 	width: 483px;
 	padding-top: 14px;
 }
-
