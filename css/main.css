@@ -1,0 +1,68 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.header{
+	padding-bottom: 302px;
+	padding-top: 41px;
+	background: #000;
+}
+
+/*Навигация*/	
+.logo{
+	width: 185px;
+    height: 51px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.tel {
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+	font-weight: 800;
+}
+
+.nav{
+	align-items: center;
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+}
+
+.paragraph {
+	font-size: 30px;
+}
+
+.text{
+	margin-top: 180px;
+}
+
+span{
+	color: #2697FF;
+}
+
+.text p{
+	width: 483px;
+	padding-top: 14px;
+}
+
